@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 (img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif")
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitsgfx&label=Profile%20views&color=0e75b6&style=flat" alt="hitsgfx" /> </p>
 
